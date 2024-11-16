@@ -1,0 +1,3 @@
+This is a basic react application created by me to practice basic props and states interaction, utilising form and event listners.
+The app keeps track of the travel packing list.
+-To run, run the command 'npm run start'
